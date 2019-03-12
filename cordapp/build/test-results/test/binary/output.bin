@@ -1,0 +1,2 @@
+¼[37m[INFO] 15:56:31,719 [Test worker] eddsa.EdDSASecurityProviderRegistrar.getOrCreateProvider - getOrCreateProvider(EdDSA) created instance of net.i2p.crypto.eddsa.EdDSASecurityProvider
+[m

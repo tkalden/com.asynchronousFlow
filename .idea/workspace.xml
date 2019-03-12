@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/ContractStateUpgrade" value="PREVIEW" />
+        <entry key="$USER_HOME$/CordaContractStateUpgrade" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/fnolCorda" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../asyncFlowInvocation" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../corda-Transaction-graph" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../corda-services-multi-threading-flows" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../cordapp-example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../fnolCorda" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../iou-example" value="PREVIEW" />
+        <entry key="$USER_HOME$/Riskblock/ConLearn" value="PREVIEW" />
+        <entry key="$USER_HOME$/Riskblock/fnolCamunda" value="PREVIEW" />
+        <entry key="$USER_HOME$/Riskblock/fnolCorda" value="PREVIEW" />
+        <entry key="$USER_HOME$/fnolCamunda" value="PREVIEW" />
+        <entry key="$USER_HOME$/project/corda-webserver" value="PREVIEW" />
+        <entry key="$USER_HOME$/project/webserver/demo" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="821" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

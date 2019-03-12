@@ -1,0 +1,12 @@
+
+[91m   ______               __
+  / ____/     _________/ /___ _
+ / /     __  / ___/ __  / __ `/         [94mI asked for insurance if the nearby
+[91m/ /___  /_/ / /  / /_/ / /_/ /          [94mvolcano erupted. They said I'd be covered.
+[91m\____/     /_/   \__,_/\__,_/[m
+
+[99;1m--- Corda Open Source 3.3-corda (c834162) -----------------------------------------------
+
+[m
+Logs can be found in                    : /Users/tenzin.kalden/IdeaProjects/asyncFlowInvocation/cordapp/build/nodes/Notary/logs
+Database connection url is              : jdbc:h2:tcp://192.168.1.204:52842/node

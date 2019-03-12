@@ -1,0 +1,12 @@
+
+[91m   ______               __
+  / ____/     _________/ /___ _
+ / /     __  / ___/ __  / __ `/         [94mWhenever I go near my bank I get
+[91m/ /___  /_/ / /  / /_/ / /_/ /          [94mwithdrawal symptoms 
+[91m\____/     /_/   \__,_/\__,_/[m
+
+[99;1m--- Corda Open Source 3.3-corda (c834162) -----------------------------------------------
+
+[m
+Logs can be found in                    : /Users/tenzin.kalden/IdeaProjects/asyncFlowInvocation/cordapp/build/nodes/PartyB/logs
+Database connection url is              : jdbc:h2:tcp://192.168.1.204:52841/node
