@@ -1,4 +1,4 @@
-### Why we need Asynchronous Flow Invocation
+## Why we need Asynchronous Flow Invocation
  If a user kicks off a flow and waits for a response on a single thread, it makes the performance less effecient. In the production scale, users invoke flow multiple times and if each flow invocation is synchronous then the remaining flow must wait till the first flow finishes! This causes the deadlock, where users have to wait forever to get response.
    The simple solution to deadlock is to kick off flow asynchronously. Now this time when the user kicks off multiple flow, each flow will be run on different thread. Depending on the computation resources, one can definie the number of threads. If it's 3, then remaining flow has to wait till any of these 3 thread is available.
 
@@ -29,12 +29,11 @@ For IDE, compilation and JVM version issues, see the
 
 To get started, clone this repository with:
 
-     git clone https://github.com/corda/cordapp-template-kotlin.git
+    git clone https://github.com/tkalden/com.asynchronousFlow.git
 
 And change directories to the newly cloned repo:
-https://github.com/tkalden/com.asynchronousFlow.git
 
-cd com.asynchronousFlow
+    cd com.asynchronousFlow
 
 ## Building the CorDapp:
 
